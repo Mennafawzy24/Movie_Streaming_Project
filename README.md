@@ -127,16 +127,6 @@ The project uses:
 
 ---
 
-👥 Team 6
-
-Name
-👩‍💻 Menna Fawzy
-👩‍💻 Malak Mohamed
-👩‍💻 Merola Atef
-👩‍💻 Noor Ashraf
-
----
-
 🎯 Final Goal
 
 The goal is to demonstrate how raw streaming data can be transformed into meaningful analytical insights using Python and SQL.
